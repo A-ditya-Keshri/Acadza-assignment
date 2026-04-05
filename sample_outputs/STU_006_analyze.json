@@ -1,0 +1,293 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Reddy",
+  "class": 12,
+  "stream": "JEE",
+  "overall": {
+    "total_sessions": 7,
+    "completed_sessions": 7,
+    "completion_rate": 100.0,
+    "avg_net_marks": 49.14,
+    "total_questions_seen": 175,
+    "total_questions_attempted": 145,
+    "total_skipped": 30,
+    "attempt_rate": 82.9,
+    "trend": "declining"
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "total_attempts": 4,
+      "avg_marks": 80.25,
+      "attempt_rate": 98.0,
+      "total_questions_attempted": 98,
+      "total_questions": 100,
+      "avg_time_minutes": 53.2,
+      "completion_rate": 100.0
+    },
+    "Chemistry": {
+      "total_attempts": 3,
+      "avg_marks": 7.67,
+      "attempt_rate": 62.7,
+      "total_questions_attempted": 47,
+      "total_questions": 75,
+      "avg_time_minutes": 39.0,
+      "completion_rate": 100.0
+    }
+  },
+  "chapter_breakdown": {
+    "Kinematics": {
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 40.67,
+      "avg_time_per_question_seconds": 101.3
+    },
+    "Heat Transfer": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 40.75,
+      "avg_time_per_question_seconds": 107.0
+    },
+    "Organic Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 3,
+      "avg_marks_contribution": 3.83,
+      "avg_time_per_question_seconds": 88.0
+    },
+    "Physical Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 3,
+      "avg_marks_contribution": 3.83,
+      "avg_time_per_question_seconds": 88.0
+    },
+    "Electrostatics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 39.5,
+      "avg_time_per_question_seconds": 103.0
+    },
+    "Rotational Mechanics": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 38.5,
+      "avg_time_per_question_seconds": 116.0
+    }
+  },
+  "strengths": [
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 40.75,
+      "avg_time_per_question_seconds": 107.0
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 40.67,
+      "avg_time_per_question_seconds": 101.3
+    },
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 39.5,
+      "avg_time_per_question_seconds": 103.0
+    }
+  ],
+  "weaknesses": [
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "times_appeared": 3,
+      "avg_marks_contribution": 3.83,
+      "avg_time_per_question_seconds": 88.0
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "times_appeared": 3,
+      "avg_marks_contribution": 3.83,
+      "avg_time_per_question_seconds": 88.0
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 38.5,
+      "avg_time_per_question_seconds": 116.0
+    }
+  ],
+  "time_management": {
+    "avg_time_per_question_seconds": 97.7,
+    "slowest_questions": [
+      {
+        "question_id": "Q_CHE_0026",
+        "time_seconds": 267,
+        "date": "2026-03-06",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_CHE_0029",
+        "time_seconds": 258,
+        "date": "2026-02-17",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_CHE_0033",
+        "time_seconds": 251,
+        "date": "2026-03-22",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0024",
+        "time_seconds": 224,
+        "date": "2026-02-09",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0037",
+        "time_seconds": 198,
+        "date": "2026-03-29",
+        "subject": "Physics"
+      }
+    ],
+    "fastest_questions": [
+      {
+        "question_id": "Q_PHY_0015",
+        "time_seconds": 20,
+        "date": "2026-02-09",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_CHE_0001",
+        "time_seconds": 21,
+        "date": "2026-03-22",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0007",
+        "time_seconds": 22,
+        "date": "2026-03-29",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_CHE_0011",
+        "time_seconds": 26,
+        "date": "2026-03-06",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0001",
+        "time_seconds": 28,
+        "date": "2026-03-15",
+        "subject": "Physics"
+      }
+    ]
+  },
+  "question_type_analysis": {
+    "scq": {
+      "total": 140,
+      "attempted": 126,
+      "attempt_rate": 90.0
+    },
+    "integer": {
+      "total": 35,
+      "attempted": 19,
+      "attempt_rate": 54.3
+    }
+  },
+  "session_trends": [
+    {
+      "date": "2026-02-09",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Heat Transfer"
+      ],
+      "net_marks": 86.0,
+      "attempted": 25,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 56
+    },
+    {
+      "date": "2026-02-17",
+      "subject": "Chemistry",
+      "chapters": [
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ],
+      "net_marks": 4.0,
+      "attempted": 16,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 38
+    },
+    {
+      "date": "2026-02-26",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Electrostatics"
+      ],
+      "net_marks": 77.0,
+      "attempted": 24,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 50
+    },
+    {
+      "date": "2026-03-06",
+      "subject": "Chemistry",
+      "chapters": [
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ],
+      "net_marks": 9.0,
+      "attempted": 16,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 41
+    },
+    {
+      "date": "2026-03-15",
+      "subject": "Physics",
+      "chapters": [
+        "Rotational Mechanics",
+        "Heat Transfer"
+      ],
+      "net_marks": 77.0,
+      "attempted": 24,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 54
+    },
+    {
+      "date": "2026-03-22",
+      "subject": "Chemistry",
+      "chapters": [
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ],
+      "net_marks": 10.0,
+      "attempted": 15,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 38
+    },
+    {
+      "date": "2026-03-29",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Electrostatics"
+      ],
+      "net_marks": 81.0,
+      "attempted": 25,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 53
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "student_id": "STU_001",
+  "name": "Arjun Sharma",
+  "total_steps": 14,
+  "summary": "Personalized 14-step study plan targeting 3 weak areas with progressive difficulty.",
+  "steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Thermodynamics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Thermodynamics has very low average marks (12.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Thermodynamics. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Thermodynamics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Thermodynamics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Thermodynamics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Thermodynamics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0022",
+        "Q_PHY_0021",
+        "Q_PHY_0003",
+        "Q_PHY_0070",
+        "Q_PHY_0054"
+      ],
+      "reasoning": "Start with easier problems in Thermodynamics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Thermodynamics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Kinematics has very low average marks (12.67). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Kinematics. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Kinematics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Kinematics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0053",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034",
+        "Q_PHY_0077",
+        "Q_PHY_0068",
+        "Q_PHY_0052"
+      ],
+      "reasoning": "Start with easier problems in Kinematics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Kinematics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 7,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Optics has very low average marks (20.0). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Optics. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 8,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Optics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Optics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 9,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0065",
+        "Q_PHY_0028",
+        "Q_PHY_0030",
+        "Q_PHY_0050",
+        "Q_PHY_0039",
+        "Q_PHY_0025",
+        "Q_PHY_0032",
+        "Q_PHY_0058",
+        "Q_PHY_0017",
+        "Q_PHY_0078"
+      ],
+      "reasoning": "Start with easier problems in Optics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Optics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 10,
+      "dost_type": "revision",
+      "description": "Multi-day structured revision plan",
+      "target_chapter": "Thermodynamics, Kinematics, Optics",
+      "target_subject": "Mixed",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "reasoning": "A structured 3-day revision plan covering all weak areas (Thermodynamics, Kinematics, Optics) for systematic improvement.",
+      "message_to_student": "Here's a 3-day revision plan covering Thermodynamics, Kinematics, Optics. Follow it daily for consistent improvement."
+    },
+    {
+      "step": 11,
+      "dost_type": "practiceTest",
+      "description": "Full timed mock test simulating exam conditions",
+      "target_chapter": "Mixed (weak chapters)",
+      "target_subject": "Mixed",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "JEE"
+      },
+      "question_ids": [
+        "Q_PHY_0080",
+        "Q_PHY_0022",
+        "Q_PHY_0100",
+        "Q_PHY_0021",
+        "Q_PHY_0003",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0065",
+        "Q_PHY_0044",
+        "Q_PHY_0028",
+        "Q_PHY_0012",
+        "Q_PHY_0057"
+      ],
+      "reasoning": "A timed mock test to assess improvement on weak chapters under exam conditions.",
+      "message_to_student": "Time to test yourself! This timed mock will show how much you've improved on your weak areas. Treat it like a real exam."
+    },
+    {
+      "step": 12,
+      "dost_type": "clickingPower",
+      "description": "Speed drill — 10 rapid questions, focus on response time",
+      "target_chapter": "Mixed",
+      "target_subject": "Mixed",
+      "parameters": {
+        "total_questions": 10
+      },
+      "question_ids": [
+        "Q_PHY_0021",
+        "Q_PHY_0053",
+        "Q_PHY_0015"
+      ],
+      "reasoning": "Average time per question is 187.7s (above 150s threshold). Speed drills will help improve response time.",
+      "message_to_student": "Your solving speed needs work! Let's do a rapid-fire round — 10 quick questions to sharpen your reflexes."
+    },
+    {
+      "step": 13,
+      "dost_type": "pickingPower",
+      "description": "MCQ option elimination practice",
+      "target_chapter": "General",
+      "target_subject": "Mixed",
+      "parameters": {},
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0043",
+        "Q_PHY_0026",
+        "Q_PHY_0065",
+        "Q_PHY_0029",
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0059",
+        "Q_CHE_0056",
+        "Q_CHE_0018"
+      ],
+      "reasoning": "Attempt rate is 76.9% — too many questions are being skipped. Option elimination practice will help attempt more questions confidently.",
+      "message_to_student": "You're skipping too many questions. Let's practice eliminating wrong options — this will help you attempt more questions even when unsure."
+    },
+    {
+      "step": 14,
+      "dost_type": "speedRace",
+      "description": "Competitive timed race against bot",
+      "target_chapter": "Laws of Motion",
+      "target_subject": "Physics",
+      "parameters": {
+        "rank": 100,
+        "opponent_type": "bot"
+      },
+      "question_ids": [
+        "Q_PHY_0031",
+        "Q_PHY_0049",
+        "Q_PHY_0092",
+        "Q_PHY_0085",
+        "Q_PHY_0060",
+        "Q_PHY_0019",
+        "Q_PHY_0088",
+        "Q_PHY_0011",
+        "Q_PHY_0086",
+        "Q_PHY_0095"
+      ],
+      "reasoning": "End with a confidence-building speed race in Laws of Motion — a strong area — to maintain motivation.",
+      "message_to_student": "Great work! Let's end with a fun challenge — race against a bot in Laws of Motion, one of your strongest topics!"
+    }
+  ]
+}

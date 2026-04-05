@@ -1,0 +1,245 @@
+{
+  "student_id": "STU_003",
+  "name": "Rohan Gupta",
+  "total_steps": 13,
+  "summary": "Personalized 13-step study plan targeting 3 weak areas with progressive difficulty.",
+  "steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Calculus",
+      "target_subject": "Mathematics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Calculus has very low average marks (18.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Calculus. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Calculus",
+      "target_subject": "Mathematics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Calculus before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Calculus. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Calculus",
+      "target_subject": "Mathematics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0008",
+        "Q_MAT_0022"
+      ],
+      "reasoning": "Start with easier problems in Calculus to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Calculus with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Probability",
+      "target_subject": "Mathematics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Probability has very low average marks (18.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Probability. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Probability",
+      "target_subject": "Mathematics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Probability before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Probability. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Probability",
+      "target_subject": "Mathematics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0029",
+        "Q_MAT_0026",
+        "Q_MAT_0004",
+        "Q_MAT_0016",
+        "Q_MAT_0024"
+      ],
+      "reasoning": "Start with easier problems in Probability to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Probability with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 7,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Kinematics has very low average marks (22.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Kinematics. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 8,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Kinematics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Kinematics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 9,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Kinematics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0053",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094",
+        "Q_PHY_0034",
+        "Q_PHY_0077",
+        "Q_PHY_0068",
+        "Q_PHY_0052"
+      ],
+      "reasoning": "Start with easier problems in Kinematics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Kinematics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 10,
+      "dost_type": "revision",
+      "description": "Multi-day structured revision plan",
+      "target_chapter": "Calculus, Probability, Kinematics",
+      "target_subject": "Mixed",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "reasoning": "A structured 3-day revision plan covering all weak areas (Calculus, Probability, Kinematics) for systematic improvement.",
+      "message_to_student": "Here's a 3-day revision plan covering Calculus, Probability, Kinematics. Follow it daily for consistent improvement."
+    },
+    {
+      "step": 11,
+      "dost_type": "practiceTest",
+      "description": "Full timed mock test simulating exam conditions",
+      "target_chapter": "Mixed (weak chapters)",
+      "target_subject": "Mixed",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "JEE"
+      },
+      "question_ids": [
+        "Q_MAT_0038",
+        "Q_MAT_0015",
+        "Q_MAT_0034",
+        "Q_MAT_0008",
+        "Q_MAT_0022",
+        "Q_MAT_0040",
+        "Q_MAT_0013",
+        "Q_MAT_0002",
+        "Q_MAT_0029",
+        "Q_MAT_0026",
+        "Q_PHY_0055",
+        "Q_PHY_0067",
+        "Q_PHY_0024",
+        "Q_PHY_0008",
+        "Q_PHY_0094"
+      ],
+      "reasoning": "A timed mock test to assess improvement on weak chapters under exam conditions.",
+      "message_to_student": "Time to test yourself! This timed mock will show how much you've improved on your weak areas. Treat it like a real exam."
+    },
+    {
+      "step": 12,
+      "dost_type": "pickingPower",
+      "description": "MCQ option elimination practice",
+      "target_chapter": "General",
+      "target_subject": "Mixed",
+      "parameters": {},
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0043",
+        "Q_PHY_0026",
+        "Q_PHY_0065",
+        "Q_PHY_0029",
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0059",
+        "Q_CHE_0056",
+        "Q_CHE_0018"
+      ],
+      "reasoning": "Attempt rate is 65.6% — too many questions are being skipped. Option elimination practice will help attempt more questions confidently.",
+      "message_to_student": "You're skipping too many questions. Let's practice eliminating wrong options — this will help you attempt more questions even when unsure."
+    },
+    {
+      "step": 13,
+      "dost_type": "speedRace",
+      "description": "Competitive timed race against bot",
+      "target_chapter": "Chemical Bonding",
+      "target_subject": "Chemistry",
+      "parameters": {
+        "rank": 100,
+        "opponent_type": "bot"
+      },
+      "question_ids": [
+        "Q_CHE_0059",
+        "Q_CHE_0004",
+        "Q_CHE_0036",
+        "Q_CHE_0025",
+        "Q_CHE_0008",
+        "Q_CHE_0024",
+        "Q_CHE_0016",
+        "Q_CHE_0030",
+        "Q_CHE_0039",
+        "Q_CHE_0038"
+      ],
+      "reasoning": "End with a confidence-building speed race in Chemical Bonding — a strong area — to maintain motivation.",
+      "message_to_student": "Great work! Let's end with a fun challenge — race against a bot in Chemical Bonding, one of your strongest topics!"
+    }
+  ]
+}

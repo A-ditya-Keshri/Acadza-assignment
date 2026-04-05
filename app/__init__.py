@@ -1,0 +1,1 @@
+# Acadza Assignment - FastAPI Application

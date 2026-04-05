@@ -1,0 +1,339 @@
+{
+  "student_id": "STU_008",
+  "name": "Deepa Krishnan",
+  "class": 12,
+  "stream": "JEE",
+  "overall": {
+    "total_sessions": 8,
+    "completed_sessions": 8,
+    "completion_rate": 100.0,
+    "avg_net_marks": 39.12,
+    "total_questions_seen": 200,
+    "total_questions_attempted": 185,
+    "total_skipped": 15,
+    "attempt_rate": 92.5,
+    "trend": "stable"
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "total_attempts": 4,
+      "avg_marks": 37.75,
+      "attempt_rate": 94.0,
+      "total_questions_attempted": 94,
+      "total_questions": 100,
+      "avg_time_minutes": 64.8,
+      "completion_rate": 100.0
+    },
+    "Chemistry": {
+      "total_attempts": 2,
+      "avg_marks": 41.0,
+      "attempt_rate": 92.0,
+      "total_questions_attempted": 46,
+      "total_questions": 50,
+      "avg_time_minutes": 65.0,
+      "completion_rate": 100.0
+    },
+    "Mathematics": {
+      "total_attempts": 2,
+      "avg_marks": 40.0,
+      "attempt_rate": 90.0,
+      "total_questions_attempted": 45,
+      "total_questions": 50,
+      "avg_time_minutes": 67.5,
+      "completion_rate": 100.0
+    }
+  },
+  "chapter_breakdown": {
+    "Rotational Mechanics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 19.75,
+      "avg_time_per_question_seconds": 146.5
+    },
+    "Heat Transfer": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 34.0,
+      "avg_time_per_question_seconds": 188.0
+    },
+    "Laws of Motion": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 5.0,
+      "avg_time_per_question_seconds": 114.0
+    },
+    "Thermodynamics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 18.0,
+      "avg_time_per_question_seconds": 139.5
+    },
+    "Organic Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 36.0,
+      "avg_time_per_question_seconds": 182.0
+    },
+    "Physical Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 2,
+      "avg_marks_contribution": 20.5,
+      "avg_time_per_question_seconds": 136.5
+    },
+    "Chemical Bonding": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 5.0,
+      "avg_time_per_question_seconds": 91.0
+    },
+    "Coordinate Geometry": {
+      "subject": "Mathematics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 20.0,
+      "avg_time_per_question_seconds": 144.5
+    },
+    "Algebra": {
+      "subject": "Mathematics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 20.0,
+      "avg_time_per_question_seconds": 144.5
+    },
+    "Electrostatics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 18.25,
+      "avg_time_per_question_seconds": 135.0
+    }
+  },
+  "strengths": [
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 36.0,
+      "avg_time_per_question_seconds": 182.0
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 34.0,
+      "avg_time_per_question_seconds": 188.0
+    },
+    {
+      "chapter": "Physical Chemistry",
+      "subject": "Chemistry",
+      "times_appeared": 2,
+      "avg_marks_contribution": 20.5,
+      "avg_time_per_question_seconds": 136.5
+    }
+  ],
+  "weaknesses": [
+    {
+      "chapter": "Laws of Motion",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 5.0,
+      "avg_time_per_question_seconds": 114.0
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 5.0,
+      "avg_time_per_question_seconds": 91.0
+    },
+    {
+      "chapter": "Thermodynamics",
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 18.0,
+      "avg_time_per_question_seconds": 139.5
+    }
+  ],
+  "time_management": {
+    "avg_time_per_question_seconds": 141.8,
+    "slowest_questions": [
+      {
+        "question_id": "Q_MAT_0030",
+        "time_seconds": 319,
+        "date": "2026-03-02",
+        "subject": "Mathematics"
+      },
+      {
+        "question_id": "Q_CHE_0029",
+        "time_seconds": 304,
+        "date": "2026-02-18",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0036",
+        "time_seconds": 229,
+        "date": "2026-02-07",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0035",
+        "time_seconds": 218,
+        "date": "2026-03-14",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_MAT_0036",
+        "time_seconds": 192,
+        "date": "2026-03-05",
+        "subject": "Mathematics"
+      }
+    ],
+    "fastest_questions": [
+      {
+        "question_id": "Q_CHE_0007",
+        "time_seconds": 15,
+        "date": "2026-02-21",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0011",
+        "time_seconds": 15,
+        "date": "2026-03-17",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_MAT_0002",
+        "time_seconds": 22,
+        "date": "2026-03-05",
+        "subject": "Mathematics"
+      },
+      {
+        "question_id": "Q_PHY_0006",
+        "time_seconds": 28,
+        "date": "2026-02-10",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_CHE_0006",
+        "time_seconds": 42,
+        "date": "2026-02-18",
+        "subject": "Chemistry"
+      }
+    ]
+  },
+  "question_type_analysis": {
+    "scq": {
+      "total": 160,
+      "attempted": 156,
+      "attempt_rate": 97.5
+    },
+    "integer": {
+      "total": 40,
+      "attempted": 29,
+      "attempt_rate": 72.5
+    }
+  },
+  "session_trends": [
+    {
+      "date": "2026-02-07",
+      "subject": "Physics",
+      "chapters": [
+        "Rotational Mechanics",
+        "Heat Transfer"
+      ],
+      "net_marks": 68.0,
+      "attempted": 24,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 83
+    },
+    {
+      "date": "2026-02-10",
+      "subject": "Physics",
+      "chapters": [
+        "Laws of Motion",
+        "Thermodynamics"
+      ],
+      "net_marks": 10.0,
+      "attempted": 23,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 53
+    },
+    {
+      "date": "2026-02-18",
+      "subject": "Chemistry",
+      "chapters": [
+        "Organic Chemistry",
+        "Physical Chemistry"
+      ],
+      "net_marks": 72.0,
+      "attempted": 24,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 79
+    },
+    {
+      "date": "2026-02-21",
+      "subject": "Chemistry",
+      "chapters": [
+        "Chemical Bonding",
+        "Physical Chemistry"
+      ],
+      "net_marks": 10.0,
+      "attempted": 22,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 51
+    },
+    {
+      "date": "2026-03-02",
+      "subject": "Mathematics",
+      "chapters": [
+        "Coordinate Geometry",
+        "Algebra"
+      ],
+      "net_marks": 72.0,
+      "attempted": 25,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 89
+    },
+    {
+      "date": "2026-03-05",
+      "subject": "Mathematics",
+      "chapters": [
+        "Algebra",
+        "Coordinate Geometry"
+      ],
+      "net_marks": 8.0,
+      "attempted": 20,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 46
+    },
+    {
+      "date": "2026-03-14",
+      "subject": "Physics",
+      "chapters": [
+        "Electrostatics",
+        "Thermodynamics"
+      ],
+      "net_marks": 62.0,
+      "attempted": 25,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 71
+    },
+    {
+      "date": "2026-03-17",
+      "subject": "Physics",
+      "chapters": [
+        "Electrostatics",
+        "Rotational Mechanics"
+      ],
+      "net_marks": 11.0,
+      "attempted": 22,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 52
+    }
+  ]
+}

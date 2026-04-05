@@ -1,0 +1,313 @@
+{
+  "student_id": "STU_007",
+  "name": "Vikram Singh",
+  "class": 12,
+  "stream": "JEE",
+  "overall": {
+    "total_sessions": 6,
+    "completed_sessions": 6,
+    "completion_rate": 100.0,
+    "avg_net_marks": 65.33,
+    "total_questions_seen": 180,
+    "total_questions_attempted": 140,
+    "total_skipped": 40,
+    "attempt_rate": 77.8,
+    "trend": "stable"
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "total_attempts": 3,
+      "avg_marks": 62.67,
+      "attempt_rate": 78.9,
+      "total_questions_attempted": 71,
+      "total_questions": 90,
+      "avg_time_minutes": 34.7,
+      "completion_rate": 100.0
+    },
+    "Mathematics": {
+      "total_attempts": 2,
+      "avg_marks": 70.0,
+      "attempt_rate": 78.3,
+      "total_questions_attempted": 47,
+      "total_questions": 60,
+      "avg_time_minutes": 42.0,
+      "completion_rate": 100.0
+    },
+    "Chemistry": {
+      "total_attempts": 1,
+      "avg_marks": 64.0,
+      "attempt_rate": 73.3,
+      "total_questions_attempted": 22,
+      "total_questions": 30,
+      "avg_time_minutes": 42.0,
+      "completion_rate": 100.0
+    }
+  },
+  "chapter_breakdown": {
+    "Kinematics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 32.5,
+      "avg_time_per_question_seconds": 56.0
+    },
+    "Thermodynamics": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 34.0,
+      "avg_time_per_question_seconds": 61.0
+    },
+    "Probability": {
+      "subject": "Mathematics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 35.0,
+      "avg_time_per_question_seconds": 46.5
+    },
+    "Coordinate Geometry": {
+      "subject": "Mathematics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 36.0,
+      "avg_time_per_question_seconds": 45.0
+    },
+    "Chemical Bonding": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 32.0,
+      "avg_time_per_question_seconds": 47.0
+    },
+    "Physical Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 32.0,
+      "avg_time_per_question_seconds": 47.0
+    },
+    "Heat Transfer": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 31.0,
+      "avg_time_per_question_seconds": 51.0
+    },
+    "Algebra": {
+      "subject": "Mathematics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 34.0,
+      "avg_time_per_question_seconds": 48.0
+    },
+    "Electrostatics": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 29.0,
+      "avg_time_per_question_seconds": 45.0
+    },
+    "Rotational Mechanics": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 29.0,
+      "avg_time_per_question_seconds": 45.0
+    }
+  },
+  "strengths": [
+    {
+      "chapter": "Coordinate Geometry",
+      "subject": "Mathematics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 36.0,
+      "avg_time_per_question_seconds": 45.0
+    },
+    {
+      "chapter": "Probability",
+      "subject": "Mathematics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 35.0,
+      "avg_time_per_question_seconds": 46.5
+    },
+    {
+      "chapter": "Algebra",
+      "subject": "Mathematics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 34.0,
+      "avg_time_per_question_seconds": 48.0
+    }
+  ],
+  "weaknesses": [
+    {
+      "chapter": "Electrostatics",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 29.0,
+      "avg_time_per_question_seconds": 45.0
+    },
+    {
+      "chapter": "Rotational Mechanics",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 29.0,
+      "avg_time_per_question_seconds": 45.0
+    },
+    {
+      "chapter": "Heat Transfer",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 31.0,
+      "avg_time_per_question_seconds": 51.0
+    }
+  ],
+  "time_management": {
+    "avg_time_per_question_seconds": 49.5,
+    "slowest_questions": [
+      {
+        "question_id": "Q_PHY_0047",
+        "time_seconds": 127,
+        "date": "2026-02-11",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_MAT_0051",
+        "time_seconds": 126,
+        "date": "2026-03-17",
+        "subject": "Mathematics"
+      },
+      {
+        "question_id": "Q_MAT_0068",
+        "time_seconds": 111,
+        "date": "2026-02-19",
+        "subject": "Mathematics"
+      },
+      {
+        "question_id": "Q_PHY_0058",
+        "time_seconds": 101,
+        "date": "2026-03-25",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0049",
+        "time_seconds": 99,
+        "date": "2026-03-08",
+        "subject": "Physics"
+      }
+    ],
+    "fastest_questions": [
+      {
+        "question_id": "Q_PHY_0004",
+        "time_seconds": 10,
+        "date": "2026-03-08",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0001",
+        "time_seconds": 11,
+        "date": "2026-03-25",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_MAT_0001",
+        "time_seconds": 12,
+        "date": "2026-02-19",
+        "subject": "Mathematics"
+      },
+      {
+        "question_id": "Q_PHY_0002",
+        "time_seconds": 15,
+        "date": "2026-02-11",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_MAT_0009",
+        "time_seconds": 16,
+        "date": "2026-03-17",
+        "subject": "Mathematics"
+      }
+    ]
+  },
+  "question_type_analysis": {
+    "scq": {
+      "total": 120,
+      "attempted": 118,
+      "attempt_rate": 98.3
+    },
+    "integer": {
+      "total": 60,
+      "attempted": 22,
+      "attempt_rate": 36.7
+    }
+  },
+  "session_trends": [
+    {
+      "date": "2026-02-11",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Thermodynamics"
+      ],
+      "net_marks": 68.0,
+      "attempted": 23,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 33
+    },
+    {
+      "date": "2026-02-19",
+      "subject": "Mathematics",
+      "chapters": [
+        "Probability",
+        "Coordinate Geometry"
+      ],
+      "net_marks": 72.0,
+      "attempted": 24,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 42
+    },
+    {
+      "date": "2026-02-27",
+      "subject": "Chemistry",
+      "chapters": [
+        "Chemical Bonding",
+        "Physical Chemistry"
+      ],
+      "net_marks": 64.0,
+      "attempted": 22,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 42
+    },
+    {
+      "date": "2026-03-08",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Heat Transfer"
+      ],
+      "net_marks": 62.0,
+      "attempted": 25,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 37
+    },
+    {
+      "date": "2026-03-17",
+      "subject": "Mathematics",
+      "chapters": [
+        "Algebra",
+        "Probability"
+      ],
+      "net_marks": 68.0,
+      "attempted": 23,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 42
+    },
+    {
+      "date": "2026-03-25",
+      "subject": "Physics",
+      "chapters": [
+        "Electrostatics",
+        "Rotational Mechanics"
+      ],
+      "net_marks": 58.0,
+      "attempted": 23,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 34
+    }
+  ]
+}

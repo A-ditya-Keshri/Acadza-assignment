@@ -1,0 +1,286 @@
+{
+  "student_id": "STU_001",
+  "name": "Arjun Sharma",
+  "class": 12,
+  "stream": "JEE",
+  "overall": {
+    "total_sessions": 6,
+    "completed_sessions": 4,
+    "completion_rate": 66.7,
+    "avg_net_marks": 35.5,
+    "total_questions_seen": 160,
+    "total_questions_attempted": 123,
+    "total_skipped": 37,
+    "attempt_rate": 76.9,
+    "trend": "improving"
+  },
+  "subject_breakdown": {
+    "Physics": {
+      "total_attempts": 5,
+      "avg_marks": 32.8,
+      "attempt_rate": 72.3,
+      "total_questions_attempted": 94,
+      "total_questions": 130,
+      "avg_time_minutes": 49.0,
+      "completion_rate": 60.0
+    },
+    "Chemistry": {
+      "total_attempts": 1,
+      "avg_marks": 49.0,
+      "attempt_rate": 96.7,
+      "total_questions_attempted": 29,
+      "total_questions": 30,
+      "avg_time_minutes": 57.0,
+      "completion_rate": 100.0
+    }
+  },
+  "chapter_breakdown": {
+    "Thermodynamics": {
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 12.5,
+      "avg_time_per_question_seconds": 192.7
+    },
+    "Electrostatics": {
+      "subject": "Physics",
+      "times_appeared": 2,
+      "avg_marks_contribution": 22.0,
+      "avg_time_per_question_seconds": 177.0
+    },
+    "Kinematics": {
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 12.67,
+      "avg_time_per_question_seconds": 192.0
+    },
+    "Optics": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 20.0,
+      "avg_time_per_question_seconds": 190.0
+    },
+    "Organic Chemistry": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 196.0
+    },
+    "Chemical Bonding": {
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 196.0
+    },
+    "Laws of Motion": {
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 162.0
+    }
+  },
+  "strengths": [
+    {
+      "chapter": "Laws of Motion",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 162.0
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 196.0
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "subject": "Chemistry",
+      "times_appeared": 1,
+      "avg_marks_contribution": 24.5,
+      "avg_time_per_question_seconds": 196.0
+    }
+  ],
+  "weaknesses": [
+    {
+      "chapter": "Thermodynamics",
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 12.5,
+      "avg_time_per_question_seconds": 192.7
+    },
+    {
+      "chapter": "Kinematics",
+      "subject": "Physics",
+      "times_appeared": 3,
+      "avg_marks_contribution": 12.67,
+      "avg_time_per_question_seconds": 192.0
+    },
+    {
+      "chapter": "Optics",
+      "subject": "Physics",
+      "times_appeared": 1,
+      "avg_marks_contribution": 20.0,
+      "avg_time_per_question_seconds": 190.0
+    }
+  ],
+  "time_management": {
+    "avg_time_per_question_seconds": 187.7,
+    "slowest_questions": [
+      {
+        "question_id": "Q_PHY_0018",
+        "time_seconds": 455,
+        "date": "2026-02-10",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_CHE_0002",
+        "time_seconds": 438,
+        "date": "2026-03-04",
+        "subject": "Chemistry"
+      },
+      {
+        "question_id": "Q_PHY_0015",
+        "time_seconds": 426,
+        "date": "2026-03-20",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0018",
+        "time_seconds": 408,
+        "date": "2026-02-18",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0012",
+        "time_seconds": 404,
+        "date": "2026-03-12",
+        "subject": "Physics"
+      }
+    ],
+    "fastest_questions": [
+      {
+        "question_id": "Q_PHY_0078",
+        "time_seconds": 37,
+        "date": "2026-03-12",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0080",
+        "time_seconds": 40,
+        "date": "2026-03-20",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0068",
+        "time_seconds": 41,
+        "date": "2026-02-25",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0062",
+        "time_seconds": 48,
+        "date": "2026-02-10",
+        "subject": "Physics"
+      },
+      {
+        "question_id": "Q_PHY_0073",
+        "time_seconds": 49,
+        "date": "2026-02-18",
+        "subject": "Physics"
+      }
+    ]
+  },
+  "question_type_analysis": {
+    "scq": {
+      "total": 130,
+      "attempted": 109,
+      "attempt_rate": 83.8
+    },
+    "integer": {
+      "total": 30,
+      "attempted": 14,
+      "attempt_rate": 46.7
+    }
+  },
+  "session_trends": [
+    {
+      "date": "2026-02-10",
+      "subject": "Physics",
+      "chapters": [
+        "Thermodynamics",
+        "Electrostatics"
+      ],
+      "net_marks": 39.0,
+      "attempted": 23,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 60
+    },
+    {
+      "date": "2026-02-18",
+      "subject": "Physics",
+      "chapters": [
+        "Kinematics",
+        "Optics"
+      ],
+      "net_marks": 40.0,
+      "attempted": 22,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 56
+    },
+    {
+      "date": "2026-02-25",
+      "subject": "Physics",
+      "chapters": [
+        "Thermodynamics",
+        "Kinematics"
+      ],
+      "net_marks": 22.0,
+      "attempted": 14,
+      "total": 30,
+      "completed": false,
+      "time_taken_minutes": 36
+    },
+    {
+      "date": "2026-03-04",
+      "subject": "Chemistry",
+      "chapters": [
+        "Organic Chemistry",
+        "Chemical Bonding"
+      ],
+      "net_marks": 49.0,
+      "attempted": 29,
+      "total": 30,
+      "completed": true,
+      "time_taken_minutes": 57
+    },
+    {
+      "date": "2026-03-12",
+      "subject": "Physics",
+      "chapters": [
+        "Thermodynamics",
+        "Kinematics"
+      ],
+      "net_marks": 14.0,
+      "attempted": 12,
+      "total": 25,
+      "completed": false,
+      "time_taken_minutes": 35
+    },
+    {
+      "date": "2026-03-20",
+      "subject": "Physics",
+      "chapters": [
+        "Electrostatics",
+        "Laws of Motion"
+      ],
+      "net_marks": 49.0,
+      "attempted": 23,
+      "total": 25,
+      "completed": true,
+      "time_taken_minutes": 58
+    }
+  ]
+}

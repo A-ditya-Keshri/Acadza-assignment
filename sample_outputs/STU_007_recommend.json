@@ -1,0 +1,221 @@
+{
+  "student_id": "STU_007",
+  "name": "Vikram Singh",
+  "total_steps": 10,
+  "summary": "Personalized 10-step study plan targeting 3 weak areas with progressive difficulty.",
+  "steps": [
+    {
+      "step": 1,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Electrostatics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Electrostatics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Electrostatics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 2,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Electrostatics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0059",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0041",
+        "Q_PHY_0081",
+        "Q_PHY_0016",
+        "Q_PHY_0098",
+        "Q_PHY_0079",
+        "Q_PHY_0090"
+      ],
+      "reasoning": "Start with easier problems in Electrostatics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Electrostatics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 3,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Rotational Mechanics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Rotational Mechanics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Rotational Mechanics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 4,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Rotational Mechanics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0043",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0051",
+        "Q_PHY_0069",
+        "Q_PHY_0014",
+        "Q_PHY_0087",
+        "Q_PHY_0046",
+        "Q_PHY_0061",
+        "Q_PHY_0062"
+      ],
+      "reasoning": "Start with easier problems in Rotational Mechanics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Rotational Mechanics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Heat Transfer",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Heat Transfer before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Heat Transfer. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Heat Transfer",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0020",
+        "Q_PHY_0013",
+        "Q_PHY_0066",
+        "Q_PHY_0064",
+        "Q_PHY_0063",
+        "Q_PHY_0007",
+        "Q_PHY_0075",
+        "Q_PHY_0037",
+        "Q_PHY_0074",
+        "Q_PHY_0089"
+      ],
+      "reasoning": "Start with easier problems in Heat Transfer to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Heat Transfer with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 7,
+      "dost_type": "revision",
+      "description": "Multi-day structured revision plan",
+      "target_chapter": "Electrostatics, Rotational Mechanics, Heat Transfer",
+      "target_subject": "Mixed",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "reasoning": "A structured 3-day revision plan covering all weak areas (Electrostatics, Rotational Mechanics, Heat Transfer) for systematic improvement.",
+      "message_to_student": "Here's a 3-day revision plan covering Electrostatics, Rotational Mechanics, Heat Transfer. Follow it daily for consistent improvement."
+    },
+    {
+      "step": 8,
+      "dost_type": "practiceTest",
+      "description": "Full timed mock test simulating exam conditions",
+      "target_chapter": "Mixed (weak chapters)",
+      "target_subject": "Mixed",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "JEE"
+      },
+      "question_ids": [
+        "Q_PHY_0005",
+        "Q_PHY_0059",
+        "Q_PHY_0027",
+        "Q_PHY_0076",
+        "Q_PHY_0072",
+        "Q_PHY_0043",
+        "Q_PHY_0029",
+        "Q_PHY_0006",
+        "Q_PHY_0051",
+        "Q_PHY_0069",
+        "Q_PHY_0026",
+        "Q_PHY_0020",
+        "Q_PHY_0013",
+        "Q_PHY_0066",
+        "Q_PHY_0064"
+      ],
+      "reasoning": "A timed mock test to assess improvement on weak chapters under exam conditions.",
+      "message_to_student": "Time to test yourself! This timed mock will show how much you've improved on your weak areas. Treat it like a real exam."
+    },
+    {
+      "step": 9,
+      "dost_type": "pickingPower",
+      "description": "MCQ option elimination practice",
+      "target_chapter": "General",
+      "target_subject": "Mixed",
+      "parameters": {},
+      "question_ids": [
+        "Q_PHY_0055",
+        "Q_PHY_0043",
+        "Q_PHY_0026",
+        "Q_PHY_0065",
+        "Q_PHY_0029",
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0059",
+        "Q_CHE_0056",
+        "Q_CHE_0018"
+      ],
+      "reasoning": "Attempt rate is 77.8% — too many questions are being skipped. Option elimination practice will help attempt more questions confidently.",
+      "message_to_student": "You're skipping too many questions. Let's practice eliminating wrong options — this will help you attempt more questions even when unsure."
+    },
+    {
+      "step": 10,
+      "dost_type": "speedRace",
+      "description": "Competitive timed race against bot",
+      "target_chapter": "Coordinate Geometry",
+      "target_subject": "Mathematics",
+      "parameters": {
+        "rank": 100,
+        "opponent_type": "bot"
+      },
+      "question_ids": [
+        "Q_MAT_0001",
+        "Q_MAT_0023",
+        "Q_MAT_0030",
+        "Q_MAT_0036",
+        "Q_MAT_0021",
+        "Q_MAT_0009",
+        "Q_MAT_0018",
+        "Q_MAT_0020",
+        "Q_MAT_0027",
+        "Q_MAT_0005"
+      ],
+      "reasoning": "End with a confidence-building speed race in Coordinate Geometry — a strong area — to maintain motivation.",
+      "message_to_student": "Great work! Let's end with a fun challenge — race against a bot in Coordinate Geometry, one of your strongest topics!"
+    }
+  ]
+}

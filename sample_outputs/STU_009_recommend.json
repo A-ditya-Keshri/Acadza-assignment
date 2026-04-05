@@ -1,0 +1,232 @@
+{
+  "student_id": "STU_009",
+  "name": "Amit Verma",
+  "total_steps": 12,
+  "summary": "Personalized 12-step study plan targeting 3 weak areas with progressive difficulty.",
+  "steps": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Physical Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Physical Chemistry has very low average marks (17.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Physical Chemistry. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Physical Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Physical Chemistry before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Physical Chemistry. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Physical Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0047",
+        "Q_CHE_0056",
+        "Q_CHE_0020",
+        "Q_CHE_0033",
+        "Q_CHE_0034",
+        "Q_CHE_0011",
+        "Q_CHE_0053",
+        "Q_CHE_0021",
+        "Q_CHE_0042",
+        "Q_CHE_0019"
+      ],
+      "reasoning": "Start with easier problems in Physical Chemistry to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Physical Chemistry with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Organic Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Organic Chemistry has very low average marks (17.5). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Organic Chemistry. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Organic Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Organic Chemistry before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Organic Chemistry. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Organic Chemistry",
+      "target_subject": "Chemistry",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_CHE_0018",
+        "Q_CHE_0060",
+        "Q_CHE_0003",
+        "Q_CHE_0048",
+        "Q_CHE_0027",
+        "Q_CHE_0040",
+        "Q_CHE_0046",
+        "Q_CHE_0043",
+        "Q_CHE_0035",
+        "Q_CHE_0054"
+      ],
+      "reasoning": "Start with easier problems in Organic Chemistry to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Organic Chemistry with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 7,
+      "dost_type": "concept",
+      "description": "Theory explanation and conceptual understanding for a topic",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Optics has very low average marks (20.0). Start with conceptual understanding before attempting problems.",
+      "message_to_student": "Let's begin by strengthening your fundamentals in Optics. We'll go through the key concepts and theory so you have a solid foundation before practice."
+    },
+    {
+      "step": 8,
+      "dost_type": "formula",
+      "description": "Formula revision sheet for specified chapters",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {},
+      "question_ids": [],
+      "reasoning": "Revise key formulas for Optics before practice to ensure quick recall during problem-solving.",
+      "message_to_student": "Time to review the important formulas for Optics. Having these at your fingertips will help you solve problems faster."
+    },
+    {
+      "step": 9,
+      "dost_type": "practiceAssignment",
+      "description": "Targeted practice set for specific topics, no timer",
+      "target_chapter": "Optics",
+      "target_subject": "Physics",
+      "parameters": {
+        "difficulty": "easy",
+        "type_split": {
+          "scq": 20,
+          "mcq": 10,
+          "integer": 5
+        }
+      },
+      "question_ids": [
+        "Q_PHY_0065",
+        "Q_PHY_0028",
+        "Q_PHY_0030",
+        "Q_PHY_0050",
+        "Q_PHY_0039",
+        "Q_PHY_0025",
+        "Q_PHY_0032",
+        "Q_PHY_0058",
+        "Q_PHY_0017",
+        "Q_PHY_0078"
+      ],
+      "reasoning": "Start with easier problems in Optics to build confidence. No timer to reduce pressure.",
+      "message_to_student": "Now let's practice Optics with some problems. Take your time — there's no timer. Focus on understanding each solution."
+    },
+    {
+      "step": 10,
+      "dost_type": "revision",
+      "description": "Multi-day structured revision plan",
+      "target_chapter": "Physical Chemistry, Organic Chemistry, Optics",
+      "target_subject": "Mixed",
+      "parameters": {
+        "alloted_days": 3,
+        "strategy": 1,
+        "daily_time_minutes": 60
+      },
+      "question_ids": [],
+      "reasoning": "A structured 3-day revision plan covering all weak areas (Physical Chemistry, Organic Chemistry, Optics) for systematic improvement.",
+      "message_to_student": "Here's a 3-day revision plan covering Physical Chemistry, Organic Chemistry, Optics. Follow it daily for consistent improvement."
+    },
+    {
+      "step": 11,
+      "dost_type": "practiceTest",
+      "description": "Full timed mock test simulating exam conditions",
+      "target_chapter": "Mixed (weak chapters)",
+      "target_subject": "Mixed",
+      "parameters": {
+        "difficulty": "medium",
+        "duration_minutes": 60,
+        "paperPattern": "JEE"
+      },
+      "question_ids": [
+        "Q_CHE_0001",
+        "Q_CHE_0047",
+        "Q_CHE_0056",
+        "Q_CHE_0006",
+        "Q_CHE_0033",
+        "Q_CHE_0018",
+        "Q_CHE_0058",
+        "Q_CHE_0060",
+        "Q_CHE_0041",
+        "Q_CHE_0003",
+        "Q_PHY_0065",
+        "Q_PHY_0044",
+        "Q_PHY_0028",
+        "Q_PHY_0012",
+        "Q_PHY_0057"
+      ],
+      "reasoning": "A timed mock test to assess improvement on weak chapters under exam conditions.",
+      "message_to_student": "Time to test yourself! This timed mock will show how much you've improved on your weak areas. Treat it like a real exam."
+    },
+    {
+      "step": 12,
+      "dost_type": "speedRace",
+      "description": "Competitive timed race against bot",
+      "target_chapter": "Algebra",
+      "target_subject": "Mathematics",
+      "parameters": {
+        "rank": 100,
+        "opponent_type": "bot"
+      },
+      "question_ids": [
+        "Q_MAT_0033",
+        "Q_MAT_0006",
+        "Q_MAT_0012",
+        "Q_MAT_0028",
+        "Q_MAT_0003",
+        "Q_MAT_0032",
+        "Q_MAT_0025",
+        "Q_MAT_0037",
+        "Q_MAT_0035",
+        "Q_MAT_0007"
+      ],
+      "reasoning": "End with a confidence-building speed race in Algebra — a strong area — to maintain motivation.",
+      "message_to_student": "Great work! Let's end with a fun challenge — race against a bot in Algebra, one of your strongest topics!"
+    }
+  ]
+}
